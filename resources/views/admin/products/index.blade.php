@@ -52,6 +52,9 @@
                 Rp. 50.000
               </td>
               <td>
+                5
+              </td>
+              <td>
                 <div class="btn-groups">
                   <button class="btn btn-defalut">Edit</button>
                   <button class="btn btn-danger">Hapus</button>

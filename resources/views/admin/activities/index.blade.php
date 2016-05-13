@@ -81,7 +81,7 @@
         <div class="modal-body">
           <form class="form" action="" method="get">
             <div class="form-group">
-              <label>Activiity</label>
+              <label>Activity</label>
               <input class="form-control" type="text" name="activity" placeholder="Text">
             </div>
             <div class="form-group">
